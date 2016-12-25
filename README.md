@@ -5,9 +5,9 @@ Native macOS wrapper for [Mixcloud](https://www.mixcloud.com/). **Warning: this 
 - See [export.sh](export.sh) for options used
 - Assets drawn from https://beta.mixcloud.com/branding/
 
-## [Download](https://github.com/hadimichael/mixcloudformac/releases)
+### [Download](https://github.com/hadimichael/mixcloudformac/releases)
 
-## Screenshot
+### Screenshot
 
 ![MixCloud for macOS Screenshot](https://raw.githubusercontent.com/hadimichael/mixcloudformac/master/screenshot.png)
 
